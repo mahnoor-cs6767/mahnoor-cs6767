@@ -22,7 +22,7 @@ Building clean projects & contributing to open source.
 ### 🔹 Practical Experience
 - OS installation & VM setup  
 - Server configuration (FTP, Web, DNS, DHCP, Proxy)  
-- Backend connectivity & authentication flows  
+- Backend connectivity  
 - Converting web projects into mobile apps  
 
 ### 🔹 Projects
@@ -39,7 +39,7 @@ Building clean projects & contributing to open source.
 I stand out because I treat every project as a showcase of skills—well‑structured repos, clear documentation, and professional presentation.  
 I don’t just code; I make projects accessible and collaborative.  
 
-- 📑 Professional documentation with clear READMEs, screenshots, and folder structures  
+- 📑 Professional documentation with clear READMEs
 - 🔧 Bridging academic learning with practical skills (VMs, servers, backend, mobile conversion)  
 - 🎯 Consistency: every repo looks polished, making collaboration easy
   
