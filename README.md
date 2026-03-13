@@ -1,8 +1,6 @@
-# ✨ Mahnoor Sajjad
-
 ## 🌟 Introduction
-CS Student ✨ | Web & Mobile Developer | AI Enthusiast  
-Building clean projects & contributing to open source.  
+I’m Mahnoor Sajjad ✨, a Computer Science student passionate about Web & Mobile Development and AI.  
+I love building clean, well‑documented projects and contributing to open source.  
 [Check out my portfolio & let’s collaborate!](https://mahnoorportfolio67.wordpress.com/)
 
 ---
