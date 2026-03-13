@@ -34,7 +34,15 @@ Building clean projects & contributing to open source.
 - Web Engineering & Mobile App Development  
 - Upcoming: Compiler Construction & Parallel and Distributed computing 🚀 
 ---
+## 🚀 What Makes Me Unique
 
+I stand out because I treat every project as a showcase of skills—well‑structured repos, clear documentation, and professional presentation.  
+I don’t just code; I make projects accessible and collaborative.  
+
+- 📑 Professional documentation with clear READMEs, screenshots, and folder structures  
+- 🔧 Bridging academic learning with practical skills (VMs, servers, backend, mobile conversion)  
+- 🎯 Consistency: every repo looks polished, making collaboration easy  
+---
 ## 🚀 Contributions & Collaboration
 - Actively contributing to open source repos  
 - Exploring AI, Web, and Mobile Dev communities  
