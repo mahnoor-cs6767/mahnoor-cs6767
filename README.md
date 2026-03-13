@@ -31,7 +31,7 @@ Building clean projects & contributing to open source.
 - DS Project (Semester 3) – C++  
 - AI Project (Semester 3) – Python  
 - COAL Project (Semester 4) – Assembly/C++  
-- Upcoming: Web Engineering & Mobile App Development  
+- Web Engineering & Mobile App Development  
 - Upcoming: Compiler Construction & Parallel and distributed computing 🚀 
 ---
 
