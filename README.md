@@ -31,7 +31,8 @@ Building clean projects & contributing to open source.
 - DS Project (Semester 3) – C++  
 - AI Project (Semester 3) – Python  
 - COAL Project (Semester 4) – Assembly/C++  
-- Web Engineering & Mobile App Development  
+- Web Engineering (Semester 5) – HTML/CSS
+- Mobile App Development (Semester 5) – React native
 - Upcoming: Compiler Construction & Parallel and Distributed computing 🚀 
 ---
 ## 🚀 What Makes Me Unique
