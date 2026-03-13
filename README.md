@@ -41,8 +41,10 @@ I don’t just code; I make projects accessible and collaborative.
 
 - 📑 Professional documentation with clear READMEs, screenshots, and folder structures  
 - 🔧 Bridging academic learning with practical skills (VMs, servers, backend, mobile conversion)  
-- 🎯 Consistency: every repo looks polished, making collaboration easy  
+- 🎯 Consistency: every repo looks polished, making collaboration easy
+  
 ---
+
 ## 🚀 Contributions & Collaboration
 - Actively contributing to open source repos  
 - Exploring AI, Web, and Mobile Dev communities  
@@ -50,5 +52,11 @@ I don’t just code; I make projects accessible and collaborative.
 
 ---
 
+## 🛠 Profile Update Checklist
+- ✅ Add a profile README.md (with intro, skills, pinned projects, contribution goals)  
+- 📌 Pin your best repos (Web Engineering, Mobile App Dev, AI project)  
+- 🛡 Use GitHub Actions badges (build passing, code coverage)  
+- 📈 Keep contribution graph active (small commits weekly)  
+---
 ## 🌍 Connect With Me
 [Portfolio](https://mahnoorportfolio67.wordpress.com/) | [LinkedIn](https://linkedin.com/in/mahnoor-sajjad-b50054388) | [GitHub](https://github.com/mahnoor-cs6767)
