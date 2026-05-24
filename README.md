@@ -33,7 +33,8 @@ Building clean projects & contributing to open source.
 - COAL Project (Semester 4) – Assembly/C++  
 - Web Engineering (Semester 5) – HTML/CSS
 - Mobile App Development (Semester 5) – React native
-- Upcoming: Compiler Construction & Parallel and Distributed computing 🚀 
+- Parallel and Distributed computing (Semester 6) – Python
+- Upcoming: Compiler Construction 🚀 
 ---
 ## 🚀 What Makes Me Unique
 
