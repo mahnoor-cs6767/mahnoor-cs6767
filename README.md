@@ -61,4 +61,4 @@ I don’t just code; I make projects accessible and collaborative.
 - 📈 Keep contribution graph active (small commits weekly)  
 ---
 ## 🌍 Connect With Me
-[Portfolio](https://mahnoorportfolio67.wordpress.com/) | [LinkedIn](https://linkedin.com/in/mahnoor-sajjad-b50054388) | [GitHub](https://github.com/mahnoor-cs6767)
+[Portfolio](https://mahnoor-cs6767.github.io/My-Portfolio1/) | [LinkedIn](https://linkedin.com/in/mahnoor-sajjad-b50054388) | [GitHub](https://github.com/mahnoor-cs6767)
