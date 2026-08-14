@@ -11,6 +11,7 @@ Building clean projects & contributing to open source.
 ### 🔹 Core Skills
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![C++](https://img.shields.io/badge/C++-00599C)
 ![Python](https://img.shields.io/badge/Python-yellow)
 ![Assembly](https://img.shields.io/badge/Assembly-gray)
@@ -23,7 +24,11 @@ Building clean projects & contributing to open source.
 - OS installation & VM setup  
 - Server configuration (FTP, Web, DNS, DHCP, Proxy)  
 - Backend connectivity  
-- Converting web projects into mobile apps  
+- Converting web projects into mobile apps
+- Parallel vs sequential performance analysis
+- Model training optimization using Python & Ray
+- Lexical analysis and token classification
+- Designing a custom programming language 
 
 ### 🔹 Projects
 - PF Project (Semester 1) – C  
@@ -34,7 +39,8 @@ Building clean projects & contributing to open source.
 - Web Engineering (Semester 5) – HTML/CSS
 - Mobile App Development (Semester 5) – React native
 - Parallel and Distributed computing (Semester 6) – Python
-- Upcoming: Compiler Construction 🚀 
+- Compiler Construction (Semester 6) – C++
+- Capstone and Professional Practices (Semester 6) - Case Study
 ---
 ## 🚀 What Makes Me Unique
 
