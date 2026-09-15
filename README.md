@@ -3,7 +3,7 @@
 ## 🌟 Introduction
 CS Student ✨ | Web & Mobile Developer | AI Enthusiast  
 Building clean projects & contributing to open source.  
-[Check out my portfolio & let’s collaborate!](https://github.com/mahnoor-cs6767/My-Portfolio1)
+[Check out my portfolio & let’s collaborate!](https://mahnoor-cs6767.github.io/My-Portfolio1/)
 
 ---
 
