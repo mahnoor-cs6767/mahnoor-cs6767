@@ -41,6 +41,7 @@ Building clean projects & contributing to open source.
 - Parallel and Distributed computing (Semester 6) – Python
 - Compiler Construction (Semester 6) – C++
 - Capstone and Professional Practices (Semester 6) - Case Study
+- Advanced Wireless Networks (Semester 6) – Python
 ---
 ## 🚀 What Makes Me Unique
 
